@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d85d6a06-2a2a-48f3-b0bc-a774b3b7e731" name="Default Changelist" comment="" />
+    <list default="true" id="d85d6a06-2a2a-48f3-b0bc-a774b3b7e731" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,6 +30,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1jNDWVyapHEHcx6g7nBbZLj3zvU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,11 +42,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algs4.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -45,7 +54,59 @@
       <recent name="D:\code\idea_projects\algorithm" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DoublingRatio">
+    <configuration name="BagTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture1.BagTest" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture1.BinarySearch" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublingRatio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture1.DoublingRatio" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture1.DoublingTest" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a" />
       <module name="algorithm" />
@@ -53,8 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.a" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.BagTest" />
+      <item itemvalue="Application.DoublingTest" />
+      <item itemvalue="Application.DoublingRatio" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoublingRatio" />
+        <item itemvalue="Application.DoublingTest" />
+        <item itemvalue="Application.BagTest" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.a" />
       </list>
     </recent_temporary>
@@ -76,40 +148,138 @@
       <workItem from="1611322676680" duration="661000" />
       <workItem from="1611386660698" duration="2601000" />
       <workItem from="1611566737396" duration="100000" />
+      <workItem from="1611567162965" duration="26000" />
+      <workItem from="1614414276091" duration="24000" />
+      <workItem from="1615361226488" duration="3442000" />
+      <workItem from="1615381825234" duration="1351000" />
+      <workItem from="1615616725220" duration="1925000" />
+      <workItem from="1616227848105" duration="2189000" />
+      <workItem from="1616230382734" duration="1543000" />
+      <workItem from="1616231992735" duration="1237000" />
+      <workItem from="1616317459151" duration="1356000" />
+      <workItem from="1616421061593" duration="1222000" />
+      <workItem from="1616422322933" duration="796000" />
+      <workItem from="1616478112923" duration="3228000" />
+      <workItem from="1616565206444" duration="595000" />
+      <workItem from="1616659042917" duration="1990000" />
+      <workItem from="1616661610776" duration="69000" />
+      <workItem from="1616662877944" duration="241000" />
     </task>
+    <task id="LOCAL-00001" summary="测试上传">
+      <created>1616229243933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616229243933</updated>
+    </task>
+    <task id="LOCAL-00002" summary="下压栈">
+      <created>1616232632678</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616232632678</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lecture1">
+      <created>1616485321670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616485321670</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lecture1">
+      <created>1616659698256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616659698256</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lecture2开始">
+      <created>1616661673649</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616661673649</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试上传" />
+    <MESSAGE value="下压栈" />
+    <MESSAGE value="lecture1" />
+    <MESSAGE value="lecture2开始" />
+    <option name="LAST_COMMIT_MESSAGE" value="lecture2开始" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="59" key="#Notifications" timestamp="1609927487309">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="233" y="59" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1609927487309" />
-    <state x="422" y="157" key="FileChooserDialogImpl" timestamp="1603637379845">
+    <state x="337" y="212" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1616232317665">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="422" y="157" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1603637379845" />
-    <state width="1238" height="203" key="GridCell.Tab.0.bottom" timestamp="1611328302534">
+    <state x="337" y="212" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1280.800@0.0.1280.800" timestamp="1616232317665" />
+    <state x="96" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615364216389">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1611328302534" />
-    <state width="1238" height="203" key="GridCell.Tab.0.center" timestamp="1611328302533">
+    <state x="96" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1615364216389" />
+    <state x="446" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1616317886026">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1611328302533" />
-    <state width="1238" height="203" key="GridCell.Tab.0.left" timestamp="1611328302533">
+    <state x="446" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1616317886026" />
+    <state x="371" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616231504501">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1611328302533" />
-    <state width="1238" height="203" key="GridCell.Tab.0.right" timestamp="1611328302534">
+    <state x="371" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1616231504501" />
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1616661673164">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1611328302534" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1611322709690">
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1616661673164" />
+    <state x="421" y="155" key="FileChooserDialogImpl" timestamp="1616422374245">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1611322709690" />
+    <state x="421" y="155" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1616422374245" />
+    <state width="1238" height="203" key="GridCell.Tab.0.bottom" timestamp="1616485643764">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1616485643764" />
+    <state width="1238" height="203" key="GridCell.Tab.0.center" timestamp="1616485643764">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1616485643764" />
+    <state width="1238" height="203" key="GridCell.Tab.0.left" timestamp="1616485643764">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1616485643764" />
+    <state width="1238" height="203" key="GridCell.Tab.0.right" timestamp="1616485643764">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1616485643764" />
+    <state x="107" y="48" width="994" height="716" key="SettingsEditor" timestamp="1616485191011">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="107" y="48" width="994" height="716" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1616485191011" />
+    <state x="233" y="133" key="Vcs.Push.Dialog.v2" timestamp="1616662915111">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="233" y="133" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1616662915111" />
+    <state x="303" y="122" width="672" height="678" key="search.everywhere.popup" timestamp="1616422793471">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="303" y="122" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1616422793471" />
   </component>
 </project>
